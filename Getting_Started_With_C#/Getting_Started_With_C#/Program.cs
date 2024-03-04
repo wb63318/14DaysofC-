@@ -201,6 +201,77 @@ Console.WriteLine(cnm);
 
 
                     /// Decision statement{if,if/else, else/if,switch}
+                   
+                    /// Loops {for , while , do-while }
                     
+// for {used when you know number of executions}
+
+for(int i = 1; i< 11; i++)
+{
+    Console.WriteLine($"{i} - Hello from C#");
+}
+
+// while {keeps ons executing until condition is met}
+
+int j = 1;
+while(j<11)
+{
+    Console.WriteLine($"{j} - Hello from c#!");
+    j++;
+}
+
+// do-while{}
+
+int d = 1;
+do
+{
+    Console.WriteLine($"{d} - hello From c#");
+    d++;
+}while(d<11);
+
+                /// Access modifiers {public, private}
+              
+//public 
+
+public class Student
+{
+    public string fName;
+    public string lName;
+    // cannot be accesed outside the student class
+    private int age;
+
+    public Student(string fName, string lName, int age)
+    {
+        this.fName = fName;
+        this.lName = lName;
+        this.age = age;
+    }
+}
+
+
+
+public class Prog
+{
+    Student student = new Student("John", "Smith", 20);
+    
+    
+}
+
+
+//private
+
+// protected { accessed from within the defined class and child classes}
+
+// internal {accessed from within the same assembly}
+
+// protected internal{accessed from child classes within the same assembly}
+
+
+
+                    /// Functions/Methods <access modifier> <return type> <name>(<parameters>){ code }
+            
+//public double AddNumbers (double fnum, double snum) => fnum + snum;
+
+
 
 

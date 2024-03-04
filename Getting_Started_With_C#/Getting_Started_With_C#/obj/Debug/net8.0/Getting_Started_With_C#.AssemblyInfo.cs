@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Getting_Started_With_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f006a662dcdfcefb08858dfbc2e2dc83a808814")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893c3ac03a87677ec030671097e573a97ac36dc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Getting_Started_With_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Getting_Started_With_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

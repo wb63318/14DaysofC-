@@ -1,0 +1,15 @@
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\bin\Debug\net8.0\Getting_Started_With_C#.exe
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\bin\Debug\net8.0\Getting_Started_With_C#.deps.json
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\bin\Debug\net8.0\Getting_Started_With_C#.runtimeconfig.json
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\bin\Debug\net8.0\Getting_Started_With_C#.dll
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\bin\Debug\net8.0\Getting_Started_With_C#.pdb
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.AssemblyInfoInputs.cache
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.AssemblyInfo.cs
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.csproj.CoreCompileInputs.cache
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.sourcelink.json
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.dll
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\refint\Getting_Started_With_C#.dll
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.pdb
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\Getting_Started_With_C#.genruntimeconfig.cache
+C:\Users\wb633\Documents\GitHub\14DaysofCSharp\Getting_Started_With_C#\Getting_Started_With_C#\obj\Debug\net8.0\ref\Getting_Started_With_C#.dll
